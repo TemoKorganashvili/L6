@@ -1,0 +1,94 @@
+.first-div{
+    width: 1336px;
+    height: 138px;
+    padding-top: 0px;
+    padding-left: 52px;
+    padding-bottom: 0px;
+    padding-right: 52px;
+    background-color: #FFFFFF00;
+    margin-left: auto;
+    margin-right: auto;
+}
+.h4-text{
+    width: 716px;
+    height: 26px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+font-family: Inter;
+font-size: 16px;
+font-weight: 600;
+line-height: 26px;
+text-align: center;
+margin-top: 80px;
+
+
+}
+.h1-text{
+font-family: Inter;
+font-size: 54px;
+font-weight: 600;
+line-height: 62px;
+letter-spacing: -1px;
+text-align: center;
+
+}
+.first-paragraph{
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 35px;
+text-align: top;
+margin-right: 22px;
+margin-left: 22px;
+margin-top: 16px;
+
+}
+
+/*flex bot*/
+
+.wraper-box{
+display: flex;
+flex-direction: row;
+width: 1336px;
+height: 430px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 48px;
+
+
+}
+.first-box{
+    width: 310px;
+    height: 430px;
+    background-color: #FFFFFF;
+
+   
+}
+.main-section{
+    width: 1336px;
+}
+.first-h2{
+font-family: Inter;
+font-size: 18px;
+font-weight: 600;
+line-height: 30px;
+text-align: left;
+
+}
+.paragraph-2{
+font-family: Inter;
+font-size: 14px;
+font-weight: 400;
+line-height: 22px;
+text-align: left;
+
+}
+.paragraph-3{
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: left;
+    
+}
